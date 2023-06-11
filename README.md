@@ -1,5 +1,5 @@
 # VOTEO
-# Blockchain-based Decentralized Voting Application 
+## Blockchain-based Decentralized Voting Application 
 
 Voteo is a blockchain-based decentralized voting application built using Ethereum, Solidity, Truffle, and Ganache.
 
@@ -16,3 +16,11 @@ Voteo is a blockchain-based decentralized voting application built using Ethereu
 - Solidity: Programming language for writing smart contracts on the Ethereum platform.
 - Truffle: Development framework for building Ethereum applications.
 - Ganache: Local development blockchain for testing and deploying smart contracts.
+
+## Getting Started
+
+1. Clone the repository: `git clone <repository-url>`
+2. Install dependencies: `npm install`
+3. Start Ganache: Run a local blockchain using Ganache.
+4. Deploy smart contract: Use Truffle to deploy the VotingContract to the local blockchain.
+5. Run the application: Launch the React front-end application using `npm start`.
